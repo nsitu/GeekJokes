@@ -1,0 +1,25 @@
+body{
+    background: #dddddd;
+    text-align: center;
+} 
+ h1{
+    font-family: 'CourierLTCyrillicBold'
+ }
+ p {
+    font-family: 'CourierLTCyrillicRegular';
+    color: #00ff00;
+    font-size: 3rem;
+
+ }
+
+ main{
+     width: 50vw;
+     border-radius: 3rem;
+     background: #110000;
+     padding: 4rem;
+     margin: 0 auto;
+ }
+
+svg:hover{
+     fill: #00ff00;
+}
