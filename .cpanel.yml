@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=~/public_html/geekjokes/
+    - mkdir -p $DEPLOYPATH
+    - cp * $DEPLOYPATH
